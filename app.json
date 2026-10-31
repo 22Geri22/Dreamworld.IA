@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "DreamWorld AI",
+    "slug": "dreamworld-ai",
+    "version": "0.5.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.dreamworldai.app"
+    },
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#101321"
+    }
+  }
+}
