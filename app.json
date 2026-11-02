@@ -6,11 +6,19 @@
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "android": {
-      "package": "com.dreamworldai.app"
+      "package": "com.dreamworldai.app",
+      "permissions": [
+        "INTERNET"
+      ]
     },
     "splash": {
       "resizeMode": "contain",
       "backgroundColor": "#101321"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ae7df779-58ee-4390-8ef1-7b322eadd54c"
+      }
     }
   }
 }
